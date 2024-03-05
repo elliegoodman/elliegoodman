@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elliegoodman !
-- 👀 I’m interested in public speaking, event planning, & team building.
+- 👀 I’m interested creating stories based off my data analysis.
 - 🌱 I’m currently studying Business Analytics & Information Systems.
 - 💞️ I’m looking to gain more experience with my technical & coding skills.
 - 📫 Please reach me at eggoodman@uiowa.edu & check out my LinkedIn & Handshake profiles!
