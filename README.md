@@ -7,7 +7,7 @@
 - 👀 I’m interested in creating stories based off data analysis.
 - 🌱 I recently graduated from the University of Iowa with a BBA in Business Analytics & Information Systems.
 - 💞️ I’m looking to gain more experience with my technical & coding skills.
-- 📫 Please reach me at egg.ellie@gmail.com & check out my LinkedIn & Handshake profiles!
+- 📫 Please reach me at egg.ellie@gmail.com & check out my profiles linked above.
 
 <!---
 elliegoodman/elliegoodman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
